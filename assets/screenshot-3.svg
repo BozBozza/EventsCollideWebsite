@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 100" shape-rendering="crispEdges">
+  <!-- Filler: PvP arena by day -->
+  <rect width="160" height="100" fill="#79b8ff"/>
+  <rect y="30" width="160" height="20" fill="#9cccff"/>
+  <rect x="14" y="10" width="24" height="6" fill="#ffffff"/><rect x="20" y="6" width="12" height="4" fill="#ffffff"/>
+  <rect x="100" y="16" width="30" height="6" fill="#ffffff"/><rect x="108" y="12" width="14" height="4" fill="#ffffff"/>
+  <!-- stands -->
+  <rect y="40" width="160" height="10" fill="#6d6d6d"/>
+  <rect y="50" width="160" height="10" fill="#5a5a5a"/>
+  <rect y="40" width="160" height="2" fill="#8a8a8a"/><rect y="50" width="160" height="2" fill="#7a7a7a"/>
+  <rect x="10" y="36" width="4" height="4" fill="#c62828"/><rect x="30" y="36" width="4" height="4" fill="#2b6fd6"/><rect x="52" y="36" width="4" height="4" fill="#f2c94c"/><rect x="74" y="36" width="4" height="4" fill="#c62828"/><rect x="96" y="36" width="4" height="4" fill="#43a047"/><rect x="118" y="36" width="4" height="4" fill="#c62828"/><rect x="140" y="36" width="4" height="4" fill="#2b6fd6"/>
+  <rect x="20" y="46" width="4" height="4" fill="#f2c94c"/><rect x="62" y="46" width="4" height="4" fill="#c62828"/><rect x="88" y="46" width="4" height="4" fill="#2b6fd6"/><rect x="130" y="46" width="4" height="4" fill="#c62828"/>
+  <!-- banners -->
+  <rect x="0" y="20" width="8" height="20" fill="#c62828"/><rect x="152" y="20" width="8" height="20" fill="#c62828"/><rect x="76" y="18" width="8" height="22" fill="#c62828"/><rect x="78" y="22" width="4" height="4" fill="#111"/>
+  <!-- arena floor -->
+  <rect y="60" width="160" height="40" fill="#c9b27a"/>
+  <rect y="60" width="160" height="3" fill="#e0cc94"/>
+  <rect x="10" y="70" width="8" height="4" fill="#b39c66"/><rect x="40" y="88" width="10" height="4" fill="#b39c66"/><rect x="120" y="76" width="10" height="4" fill="#b39c66"/><rect x="96" y="92" width="8" height="4" fill="#b39c66"/>
+  <rect x="64" y="74" width="32" height="2" fill="#8a1c1c"/><rect x="64" y="74" width="2" height="16" fill="#8a1c1c"/><rect x="94" y="74" width="2" height="16" fill="#8a1c1c"/><rect x="64" y="88" width="32" height="2" fill="#8a1c1c"/>
+  <!-- fighters -->
+  <rect x="58" y="62" width="8" height="8" fill="#d9a07a"/><rect x="58" y="70" width="8" height="10" fill="#c62828"/><rect x="58" y="80" width="3" height="6" fill="#333"/><rect x="63" y="80" width="3" height="6" fill="#333"/>
+  <rect x="66" y="70" width="8" height="2" fill="#bfe8ff"/>
+  <rect x="94" y="62" width="8" height="8" fill="#d9a07a"/><rect x="94" y="70" width="8" height="10" fill="#2b6fd6"/><rect x="94" y="80" width="3" height="6" fill="#333"/><rect x="99" y="80" width="3" height="6" fill="#333"/>
+  <rect x="86" y="70" width="8" height="2" fill="#bfe8ff"/>
+  <rect x="78" y="64" width="4" height="4" fill="#ffffff"/><rect x="74" y="66" width="2" height="2" fill="#ffffff"/><rect x="84" y="62" width="2" height="2" fill="#ffffff"/>
+</svg>

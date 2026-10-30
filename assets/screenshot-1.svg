@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 100" shape-rendering="crispEdges">
+  <!-- Filler: castle at sunset -->
+  <rect width="160" height="100" fill="#2a0d1a"/>
+  <rect y="0" width="160" height="14" fill="#3b1028"/>
+  <rect y="14" width="160" height="12" fill="#6a1630"/>
+  <rect y="26" width="160" height="10" fill="#a8243a"/>
+  <rect y="36" width="160" height="10" fill="#e0453a"/>
+  <rect y="46" width="160" height="10" fill="#ff7a3d"/>
+  <rect x="104" y="38" width="20" height="20" fill="#ffd36b"/>
+  <rect x="100" y="42" width="28" height="12" fill="#ffd36b"/>
+  <rect y="56" width="160" height="44" fill="#1d3a1a"/>
+  <rect x="0" y="52" width="40" height="8" fill="#244a20"/>
+  <rect x="120" y="50" width="40" height="10" fill="#244a20"/>
+  <rect y="60" width="160" height="4" fill="#3c7a2a"/>
+  <rect y="64" width="160" height="36" fill="#5a3a22"/>
+  <rect y="76" width="160" height="24" fill="#4a4a4a"/>
+  <rect x="0" y="64" width="8" height="4" fill="#4a2e1b"/><rect x="32" y="68" width="8" height="4" fill="#4a2e1b"/><rect x="88" y="66" width="8" height="4" fill="#4a2e1b"/><rect x="136" y="70" width="8" height="4" fill="#4a2e1b"/>
+  <rect x="16" y="80" width="8" height="4" fill="#3a3a3a"/><rect x="64" y="84" width="8" height="4" fill="#3a3a3a"/><rect x="120" y="88" width="8" height="4" fill="#3a3a3a"/>
+  <!-- castle -->
+  <rect x="44" y="30" width="56" height="30" fill="#1a1012"/>
+  <rect x="40" y="18" width="14" height="42" fill="#140c0e"/>
+  <rect x="90" y="18" width="14" height="42" fill="#140c0e"/>
+  <rect x="40" y="14" width="4" height="4" fill="#140c0e"/><rect x="46" y="14" width="4" height="4" fill="#140c0e"/><rect x="52" y="14" width="2" height="4" fill="#140c0e"/>
+  <rect x="90" y="14" width="4" height="4" fill="#140c0e"/><rect x="96" y="14" width="4" height="4" fill="#140c0e"/><rect x="102" y="14" width="2" height="4" fill="#140c0e"/>
+  <rect x="44" y="26" width="4" height="4" fill="#140c0e"/><rect x="56" y="26" width="4" height="4" fill="#1a1012"/><rect x="66" y="26" width="4" height="4" fill="#1a1012"/><rect x="76" y="26" width="4" height="4" fill="#1a1012"/><rect x="86" y="26" width="4" height="4" fill="#1a1012"/>
+  <rect x="66" y="44" width="12" height="16" fill="#0a0506"/>
+  <rect x="45" y="26" width="4" height="6" fill="#ff9a3d"/><rect x="95" y="26" width="4" height="6" fill="#ff9a3d"/><rect x="58" y="38" width="4" height="4" fill="#ff9a3d"/><rect x="82" y="38" width="4" height="4" fill="#ff9a3d"/>
+  <!-- tree -->
+  <rect x="140" y="40" width="4" height="20" fill="#3a2414"/>
+  <rect x="132" y="28" width="20" height="14" fill="#16301a"/>
+  <rect x="136" y="24" width="12" height="4" fill="#16301a"/>
+  <rect x="12" y="44" width="4" height="16" fill="#3a2414"/>
+  <rect x="6" y="34" width="16" height="12" fill="#16301a"/>
+</svg>
